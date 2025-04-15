@@ -113,4 +113,8 @@ public class Vonalak {
         return this.eltolas;
     }
 
+    public String getForma() {
+        return this.forma;
+    }
+
 }
